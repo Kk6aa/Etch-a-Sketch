@@ -6,7 +6,8 @@
     height: auto; 
     background-color: #f3f3f3;
     flex-wrap: wrap;
-    
+    border: 5px solid black;
+    margin: 10px;
 }
 
  div {
