@@ -1,0 +1,17 @@
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 960px; 
+    height: auto; 
+    background-color: #f3f3f3;
+    flex-wrap: wrap;
+    
+}
+
+ div {
+    width: auto; 
+    height: auto; 
+    padding: 25px;
+    background-color: blueviolet;
+}
